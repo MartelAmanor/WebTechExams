@@ -87,3 +87,10 @@ martel_events/
 3. Commit your changes
 4. Push to the branch
 5. Create a new Pull Request
+
+*Picture of homepage
+![image](https://github.com/user-attachments/assets/96cdde35-b8b2-45fc-86a4-db1f4aff9aa2)
+
+*picture of calender
+
+
